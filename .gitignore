@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts (if any)
+build/
+dist/
+
+# Node modules (if using build tools)
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# OS generated files
+Icon?
+.Spotlight-V100
+.Trashes
