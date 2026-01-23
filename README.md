@@ -9,7 +9,7 @@
 
 ## 🎮 Play Now
 
-**[▶️ Play in Browser](https://yourusername.github.io/infinity-snip3/)** *(GitHub Pages)*
+**[▶️ Play in Browser](https://garebear99.github.io/infinity-snip3/)** *(GitHub Pages)*
 
 Or open `index.html` in any modern browser.
 
@@ -48,7 +48,7 @@ Or open `index.html` in any modern browser.
 ### Browser (Easiest)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/infinity-snip3.git
+git clone https://github.com/GareBear99/infinity-snip3.git
 
 # Open in browser
 open infinity-snip3/index.html
@@ -227,7 +227,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/infinity-snip3/issues)
+- **Issues**: [GitHub Issues](https://github.com/GareBear99/infinity-snip3/issues)
 - **Discord**: Coming soon
 - **Email**: support@neovectr.com
 
