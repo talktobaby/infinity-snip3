@@ -9,7 +9,10 @@
 
 ## 🎮 Play Now
 
-**[▶️ Play in Browser](https://garebear99.github.io/infinity-snip3/)** *(GitHub Pages)*
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/garebear99)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5e5b?style=flat&logo=ko-fi)](https://ko-fi.com/luciferai)
+[![Sponsor](https://img.shields.io/badge/Sponsor-u2764ufe0f-red?style=flat&logo=github-sponsors)](https://github.com/sponsors/GareBear99)**[▶️ Play in Browser](https://garebear99.github.io/infinity-snip3/)** *(GitHub Pages)*
 
 Or open `index.html` in any modern browser.
 
